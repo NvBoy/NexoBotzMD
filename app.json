@@ -1,0 +1,7 @@
+{
+  "name": "NexoBotz-MD",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/justpiple/whatsapp-bot",
+  "logo": "https://cdn.discordapp.com/attachments/994391559753703474/1038255147370938439/logo.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}
